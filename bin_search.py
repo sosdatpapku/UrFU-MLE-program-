@@ -24,7 +24,7 @@ def rand_numb(number) -> int:
             break # число отгадано - выход из цикла
     return(count)
 
-def score_game(rand_numb) -> int:
+def score_game(rand_numb) -> int: 
     """ За какое количество попыток в среднем за 1000 подходов угадывает наш алгоритм
     Args:
         random_predict ([type]): функция угадывания
