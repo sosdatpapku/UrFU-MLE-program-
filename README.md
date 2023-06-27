@@ -11,4 +11,6 @@ Master's prorgram student project (UrFU MLE)
 Само соревнование  на Kaggle - [тык](https://www.kaggle.com/competitions/mds-ufu-dl-test/overview)
 4. Предсказание продолжительности поездки на такси в Нью-Йорке (проектный практикум) - [тык](https://github.com/sosdatpapku/UrFU_Project_practice/blob/main/Проектный_практикум_Время_поездки_на_такси_Зайцев_А_В_ipynb_.ipynb)
 5. Исследовательский анализ данных (EDA) данных о недвижимости в Москве - [тык](https://colab.research.google.com/drive/1TaoenLKYbfbAGld_enMfo57Zfeo-wCuZ?usp=sharing)
-6. Web-приложение на основе модели классификации текста на русском языке (в процессе)
+6. Web-приложение на основе модели классификации текста на русском языке (в процессе)  
+
+Мой профиль на [Kaggle](https://www.kaggle.com/sosdatpapku)
